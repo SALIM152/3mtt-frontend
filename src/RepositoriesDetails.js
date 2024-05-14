@@ -42,7 +42,7 @@ function RepositoriesDetails (){
     );
   };
   return<div>{renderContent()}
-  <p className='copyright'>copyright &copy; {new Date().getFullYear()} EL-suraj.</p>
+  <p className='copyright'>copyright &copy; {new Date().getFullYear()} Salim.</p>
   </div>;
   
 }
